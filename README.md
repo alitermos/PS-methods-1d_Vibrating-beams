@@ -14,5 +14,3 @@ as input(s)). Inverse solvers for the equivalent inverse problems are also desig
 damage parameter(s) to be computed after supplying the natural frequencies of the beams as
 inputs. All solvers are written in MATLAB [3] language, and the computational approach is
 conclusively accurate. The codes can be modified to suit other beam configurations as well.
-
-Note: The final document is a work in progress..
