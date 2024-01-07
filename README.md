@@ -1,4 +1,4 @@
-# ps-method-beam-vibration-1d
+# DVR-Method_1D-Vibrating-Cantilevers
 Solutions to Inverse Problems in the field of Mechanical Vibration : " Utilizing Pseudo-Spectral Method for the Dynamic Analysis of One-Dimensional Non-Ideal Cantilevers &amp; Fixed Beams "
 
 ## Abstract
